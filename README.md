@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
+- Repo URL: https://cvchukwu/3-column-card-using-Flexbox/
 - Live Site URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
 
 ## My process
@@ -36,7 +36,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@cvchukwu](https://www.twitter.com/cvchukwu)
 
 ## Acknowledgments
